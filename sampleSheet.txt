@@ -1,0 +1,6 @@
+barcode01/FBA00935_pass_barcode01_bd7cd4cb_2171c7b3_0.pod5
+barcode02/FBA00935_pass_barcode02_bd7cd4cb_2171c7b3_0.pod5                                                                     
+barcode02/FBA00935_pass_barcode02_bd7cd4cb_2171c7b3_1.pod5                                                                    
+barcode03/FBA00935_pass_barcode03_bd7cd4cb_2171c7b3_0.pod5
+barcode04/FBA00935_pass_barcode04_bd7cd4cb_2171c7b3_1.pod5
+barcode04/FBA00935_pass_barcode04_bd7cd4cb_2171c7b3_0.pod5
